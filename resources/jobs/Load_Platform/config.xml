@@ -13,7 +13,7 @@
         <hudson.model.StringParameterDefinition>
           <name>GIT_URL</name>
           <description>The URL of the git repo for Platform Management.</description>
-          <defaultValue>https://github.com/Accenture/adop-platform-management.git</defaultValue>
+          <defaultValue>https://github.com/sbstnbr/adop-platform-management.git</defaultValue>
         </hudson.model.StringParameterDefinition>
         <hudson.model.BooleanParameterDefinition>
           <name>GENERATE_EXAMPLE_WORKSPACE</name>
